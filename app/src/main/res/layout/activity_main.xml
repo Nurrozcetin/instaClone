@@ -9,7 +9,7 @@
 
     <EditText
         android:id="@+id/editTxtEmail"
-        android:layout_width="300dp"
+        android:layout_width="310dp"
         android:layout_height="50dp"
         android:layout_marginTop="90dp"
         android:ems="10"
@@ -22,7 +22,7 @@
 
     <EditText
         android:id="@+id/editTxtPass"
-        android:layout_width="300dp"
+        android:layout_width="310dp"
         android:layout_height="50dp"
         android:layout_marginTop="35dp"
         android:ems="10"
